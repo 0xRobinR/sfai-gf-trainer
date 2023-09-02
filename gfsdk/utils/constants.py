@@ -1,0 +1,3 @@
+GFRPC_URL = ""
+PRIVATE_KEY = ""
+CREATOR = ""
